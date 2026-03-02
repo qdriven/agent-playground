@@ -1,3 +1,6 @@
 [submodule "ai-agent-setup-instruction"]
 	path = ai-agent-setup-instruction
 	url = https://github.com/qdriven/ai-agent-setup-instruction.git
+[submodule "use-cases/cli/monolize"]
+	path = use-cases/cli/monolize
+	url = https://github.com/qdriven/git-monolize.git
