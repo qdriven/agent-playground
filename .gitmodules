@@ -4,3 +4,6 @@
 [submodule "use-cases/cli/monolize"]
 	path = use-cases/cli/monolize
 	url = https://github.com/qdriven/git-monolize.git
+[submodule "use-cases/apps/gitfeeds"]
+	path = use-cases/apps/gitfeeds
+	url = https://github.com/qdriven/gitfeeds.git
